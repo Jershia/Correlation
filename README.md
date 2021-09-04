@@ -5,7 +5,7 @@
   * *We learnt about Positive correlation and Negative(inverse) correlation*
   * *Negative and Inverse correlation are same.*
   * *.**/n :** Starts from a new line.*
-  * *.**/t :** Gives Space or tabs. *
+  * *.**/t :** Gives Space or tabs.*
   * *We used **correcof()** from numpy library to calculate coefficient.*
    
  ### Definition
