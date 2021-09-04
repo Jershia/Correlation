@@ -4,8 +4,8 @@
   * *Correlation always lies in between **-1 and 1**.*
   * *We learnt about Positive correlation and Negative(inverse) correlation*
   * *Negative and Inverse correlation are same.*
-  * *.**/n :** Starts from a new line.*
-  * *.**/t :** Gives Space or tabs.*
+  * **/n :** *Starts from a new line.*
+  * **/t :** *Gives Space or tabs.*
   * *We used **correcof()** from numpy library to calculate coefficient.*
    
  ### Definition
