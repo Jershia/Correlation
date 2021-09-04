@@ -1,8 +1,9 @@
 # Correlation
 
- ### Learnt About
+### Learnt About
   * *We learnt about Positive correlation and Negative(inverse) correlation*
   * *Correlation always lies in between **-1 and 1**.*
+  * *Negative and Inverse correlation are same.*
    
  ### Definition
   * *.**Positive Correlation :** A correlation of **1** means the two data sets are closely(close to line) correlated.This will be a rising graph where the data points are close to the central line.*
